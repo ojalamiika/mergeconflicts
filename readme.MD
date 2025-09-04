@@ -7,3 +7,4 @@ jjoo
 liibalaaba
 
 olli eqvarq
+eipä mennä henk koht
