@@ -6,5 +6,5 @@ jjoo
 #Etäcommit
 liibalaaba
 
-olli eqvarq
-eipä mennä henk koht
+# olli eqvarq
+# eipä mennä henk koht
